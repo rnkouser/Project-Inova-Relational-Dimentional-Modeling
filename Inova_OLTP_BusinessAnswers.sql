@@ -1,5 +1,4 @@
 
---======
   SELECT  
       concat(UPPER(e.[EmployeeLastName]),', ',e.[EmployeeFirstName]) as EmployeeName
       ,IsSupervisor=case 
@@ -214,7 +213,7 @@ select PlantName,PlantCapacity
 from plant
 order by PlantCapacity desc
 
---===== School of Thought: Elvis ===============
+--===== School of Thought ===============
 select PlantName,PlantCapacity,TotalEmployees,RankPlantCapacity,Rankemployees
 from
 (
@@ -228,7 +227,7 @@ group by PlantName, pt.PlantCapacity
 ) as sb
 where Rankemployees<=3
 
---===== School of Thought: Adam===============
+--===== School of Thought===============
 select pt.PlantName, pt.PlantCapacity, count(p.EmployeeID) as TotalEmployees
 from Production as p
 left join plant as pt on pt.PlantID=p.PlantID
@@ -237,13 +236,6 @@ group by PlantName, pt.PlantCapacity
 order by pt.PlantCapacity desc, count(p.EmployeeID) asc
 
 
-/*
-
-Adama: highest capacity with less employee (Plant)
-Motola: No of employeee (the plant with least employee with highest produce) (Plant, employee, produce)
-Rahila: Type of plant which can make the most product with less employees (Plant, production, employee)
-
-*/
 --When QualityStaus is 1 , deficiencyID should NULL
 --6. What is the percentage of product deficiencies, damage and high quality produce in 2012
 
