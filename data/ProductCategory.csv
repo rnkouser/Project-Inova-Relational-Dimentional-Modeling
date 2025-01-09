@@ -1,0 +1,10 @@
+ProductCategoryID,CategoryName
+1,Suspension
+2,Steering
+3,Brakes
+4,Engine
+5,Transmission
+6,Electrical System
+7,Light
+8,Body
+9,Other

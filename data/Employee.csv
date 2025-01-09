@@ -1,0 +1,103 @@
+EmployeeID,EmployeeFirstName,EmployeeLastName,SupervisorID,Position,DepartmentID
+1,James,Berg,-1,Sales Manager,1
+2,Tara,Smith,1,Customer Service Staff,1
+3,Matthew,Dixon,1,Sales Person,1
+4,Denise,Reed,1,Sales Person,1
+5,Jenny,Welch,1,Sales Person,1
+6,Jason,Johnson,1,Customer Service Staff,1
+7,Theresa,Villa,1,Sales Person,1
+8,Kevin,Smith,1,Customer Service Staff,1
+9,Alexander,Roberts,1,Customer Service Staff,1
+10,Daniel,Harris,1,Customer Service Staff,1
+11,Samuel,Brown,1,Sales Person,1
+12,Michael,Gibson,1,Customer Service Staff,1
+13,Daniel,Thomas,1,Customer Service Staff,1
+14,Peter,Rogers,-1,HR Manager,2
+15,Autumn,Walker,14,IT Personnel,2
+16,John,Thompson,14,IT Personnel,2
+17,Gregory,Carroll,14,IT Personnel,2
+18,Vincent,Herrera,14,IT Personnel,2
+19,Jeremy,Morgan,14,IT Personnel,2
+20,David,Wall,14,Quality Control Scientist,2
+21,Sara,Floyd,14,Quality Control Scientist,2
+22,Heather,Foster,14,Quality Control Scientist,2
+23,Ashley,Rivera,14,IT Personnel,2
+24,Jessica,Haney,14,IT Personnel,2
+25,Kathryn,Dean,14,Quality Control Scientist,2
+26,Deborah,Todd,14,Quality Control Scientist,2
+27,Andrew,Burch,-1,Logistics Manager,3
+28,Mitchell,Norris,27,Driver,3
+29,James,Wright,27,Driver,3
+30,Mark,Soto,27,Logistics Crew,3
+31,Jesse,Carlson,27,Logistics Crew,3
+32,Alexis,Gross,27,Driver,3
+33,Jessica,Barker,27,Logistics Crew,3
+34,Danielle,Jensen,27,Logistics Crew,3
+35,Rachel,Duran,27,Logistics Crew,3
+36,Crystal,Anderson,27,Driver,3
+37,Monica,Hebert,27,Driver,3
+38,Bryan,Walker,27,Driver,3
+39,Kelli,Thompson,27,Logistics Crew,3
+40,William,Morris,-1,Inventory Manager,4
+41,Mary,Edwards,40,Inventory Crew,4
+42,Jonathan,Hall,40,Inventory Crew,4
+43,Mark,Reese,40,Inventory Crew,4
+44,Crystal,Johnson,40,Inventory Crew,4
+45,Eugene,Holloway,40,Inventory Crew,4
+46,Gloria,Ashley,40,Inventory Crew,4
+47,Benjamin,Morgan,40,Inventory Crew,4
+48,Lisa,Olson,40,Inventory Crew,4
+49,Cynthia,Mann,40,Inventory Crew,4
+50,David,George,40,Inventory Crew,4
+51,Amy,Schneider,40,Inventory Crew,4
+52,Christina,Logan,40,Inventory Crew,4
+53,Katie,Meyer,-1,Plant Manager,5
+54,Daniel,Lee,53,Plant Crew,5
+55,Melanie,Abbott,53,Plant Crew,5
+56,Marissa,Neal,53,Plant Crew,5
+57,Mary,Johnson,53,Plant Crew,5
+58,Steven,Cole,53,Plant Crew,5
+59,Erika,Olson,53,Plant Crew,5
+60,Patrick,Fletcher,53,Plant Crew,5
+61,Ashley,Flores,53,Plant Crew,5
+62,Cody,Johnson,53,Plant Crew,5
+63,Garrett,Baker,53,Plant Crew,5
+64,Amy,Gilbert,53,Plant Crew,5
+65,Susan,Weaver,53,Plant Crew,5
+66,Philip,Haney,53,Plant Crew,5
+67,Patrick,Rogers,53,Plant Crew,5
+68,Harry,Woods,53,Plant Crew,5
+69,Wesley,Thomas,53,Plant Crew,5
+70,James,Rodgers,53,Plant Crew,5
+71,Melvin,Davis,53,Plant Crew,5
+72,Tammy,Hoffman,53,Plant Crew,5
+73,Justin,Bryant,53,Plant Crew,5
+74,Mitchell,Fry,53,Plant Crew,5
+75,Jillian,Rosales,53,Plant Crew,5
+76,Dwayne,Juarez,53,Plant Crew,5
+77,Robert,Brown,53,Plant Crew,5
+78,Tammie,Wilson,53,Plant Crew,5
+79,Frederick,Foster,53,Plant Crew,5
+80,Jermaine,Lee,53,Plant Crew,5
+81,Mark,Peterson,53,Plant Crew,5
+82,Gabriel,Wallace,53,Plant Crew,5
+83,Barbara,Vargas,53,Plant Crew,5
+84,Amy,Elliott,53,Plant Crew,5
+85,Laura,Quinn,53,Plant Crew,5
+86,Mary,Moore,53,Plant Crew,5
+87,Joshua,Benitez,53,Plant Crew,5
+88,Shawn,Powers,53,Plant Crew,5
+89,Joseph,Allen,53,Plant Crew,5
+90,Daniel,Santiago,53,Plant Crew,5
+91,Alexander,Kirk,53,Plant Crew,5
+92,Dawn,Gonzalez,53,Plant Crew,5
+93,Sean,Bright,53,Plant Crew,5
+94,Robert,Thompson,53,Plant Crew,5
+95,Lindsay,Henry,53,Plant Crew,5
+96,Michael,Chavez,53,Plant Crew,5
+97,Megan,Mcdowell,53,Plant Crew,5
+98,Lawrence,Morgan,53,Plant Crew,5
+99,Debra,Brooks,53,Plant Crew,5
+100,Megan,Jefferson,53,Plant Crew,5
+101,Carla,Goodman,53,Plant Crew,5
+102,John,Jordan,53,Plant Crew,5

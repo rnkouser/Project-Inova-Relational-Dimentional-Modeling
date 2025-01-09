@@ -1,0 +1,11 @@
+PlantID,PlantName,PlantCapacity,PlantAddress,CityID
+1,Evergreen Plant,8270,"10010 Jasper Avenue NW, Edmonton, AB",202
+2,Oceanic Plant,1860,"10155 152nd Street, Surrey, BC",206
+3,Mountain Peak Plant,6390,"101 First Street North, Brandon, MB",210
+4,Desert Bloom Plant,6191,"100 Brunswick Street, Saint John, NB",213
+5,Riverbend Plant,6734,"100 Topsail Road, Mount Pearl, NL",218
+6,Urban Green Plant,7265,"500 Barrington Street, Halifax, NS",221
+7,Valley Forge Plant,1466,"500 Albert Street, Ottawa, ON",226
+8,Prairie Wind Plant,5426,"500 René-Lévesque Boulevard West, Montreal, QC",233
+9,Sunset Plant,6578,"100 Victoria Avenue, Regina, SK",238
+10,Forest Edge Plant,9322,"100 Water Street, Summerside, PE",230

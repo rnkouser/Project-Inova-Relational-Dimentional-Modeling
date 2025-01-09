@@ -1,0 +1,121 @@
+StateID,State,CountryID
+1,Alabama,1
+2,Alaska,1
+3,Arizona,1
+4,Arkansas,1
+5,California,1
+6,Colorado,1
+7,Connecticut,1
+8,Delaware,1
+9,Florida,1
+10,Georgia,1
+11,Hawaii,1
+12,Idaho,1
+13,Illinois,1
+14,Indiana,1
+15,Iowa,1
+16,Kansas,1
+17,Kentucky,1
+18,Louisiana,1
+19,Maine,1
+20,Maryland,1
+21,Massachusetts,1
+22,Michigan,1
+23,Minnesota,1
+24,Mississippi,1
+25,Missouri,1
+26,Montana,1
+27,Nebraska,1
+28,Nevada,1
+29,New Hampshire,1
+30,New Jersey,1
+31,New Mexico,1
+32,New York,1
+33,North Carolina,1
+34,North Dakota,1
+35,Ohio,1
+36,Oklahoma,1
+37,Oregon,1
+38,Pennsylvania,1
+39,Rhode Island,1
+40,South Carolina,1
+41,South Dakota,1
+42,Tennessee,1
+43,Texas,1
+44,Utah,1
+45,Vermont,1
+46,Virginia,1
+47,Washington,1
+48,West Virginia,1
+49,Wisconsin,1
+50,Wyoming,1
+51,Alberta,2
+52,British Columbia,2
+53,Manitoba,2
+54,New Brunswick,2
+55,Newfoundland and Labrador,2
+56,Nova Scotia,2
+57,Ontario,2
+58,Prince Edward Island,2
+59,Quebec,2
+60,Saskatchewan,2
+61,England,3
+62,Scotland,3
+63,Wales,3
+64,Northern Ireland,3
+65,Zurich,4
+66,Bern,4
+67,Geneva,4
+68,Basel,4
+69,North Rhine-Westphalia,5
+70,Bavaria,5
+71,Baden-Württemberg,5
+72,Lower Saxony,5
+73,Île-de-France,6
+74,Hauts-de-Seine,6
+75,Seine-Saint-Denis,6
+76,Val-de-Marne,6
+77,Greater Accra,7
+78,Ashanti,7
+79,Western,7
+80,Eastern,7
+81,Gauteng,8
+82,KwaZulu-Natal,8
+83,Western Cape,8
+84,Eastern Cape,8
+85,Nairobi County,9
+86,Mombasa County,9
+87,Nakuru County,9
+88,Kisumu County,9
+89,Lagos State,10
+90,Kano State,10
+91,Kaduna State,10
+92,Rivers State,10
+93,Abidjan,11
+94,Yamoussoukro,11
+95,Bouaké,11
+96,Daloa,11
+97,Kinshasa Province,12
+98,Katanga Province,12
+99,Kasai-Oriental Province,12
+100,North Kivu Province,12
+101,Selangor,13
+102,Johor,13
+103,Kuala Lumpur,13
+104,Penang,13
+105,Maharashtra,14
+106,Uttar Pradesh,14
+107,West Bengal,14
+108,Tamil Nadu,14
+109,Guangdong,15
+110,Jiangsu,15
+111,Shandong,15
+112,Beijing,15
+113,Tokyo Metropolis,16
+114,Osaka Prefecture,16
+115,Aichi Prefecture,16
+116,Kanagawa Prefecture,16
+117,Punjab,17
+118,Sindh,17
+119,Khyber Pakhtunkhwa,17
+120,Balochistan,17

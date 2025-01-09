@@ -1,0 +1,6 @@
+DeliveryStatusID,DeliveryStatus,Reason,AttemptNo
+1,Pending,Weather,3
+2,In Transit,Vehicle breakdown,2
+3,Delivered,,1
+4,Delayed,Accident on highway,1
+5,Cancelled,Wrong Address,2

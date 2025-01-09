@@ -1,0 +1,477 @@
+CityID,City,StateID
+1,Birmingham,1
+2,Montgomery,1
+3,Mobile,1
+4,Huntsville,1
+5,Anchorage,2
+6,Fairbanks,2
+7,Juneau,2
+8,Wasilla,2
+9,Phoenix,3
+10,Tucson,3
+11,Mesa,3
+12,Glendale,3
+13,Little Rock,4
+14,Fayetteville,4
+15,Fort Smith,4
+16,North Little Rock,4
+17,Los Angeles,5
+18,San Francisco,5
+19,San Diego,5
+20,San Jose,5
+21,Denver,6
+22,Aurora,6
+23,Colorado Springs,6
+24,Fort Collins,6
+25,Hartford,7
+26,Bridgeport,7
+27,New Haven,7
+28,Stamford,7
+29,Wilmington,8
+30,Newark,8
+31,Dover,8
+32,Bear,8
+33,Jacksonville,9
+34,Miami,9
+35,Tampa,9
+36,Orlando,9
+37,Atlanta,10
+38,Augusta,10
+39,Savannah,10
+40,Columbus,10
+41,Honolulu,11
+42,Hilo,11
+43,Kahului,11
+44,Kailua,11
+45,Boise,12
+46,Nampa,12
+47,Meridian,12
+48,Idaho Falls,12
+49,Chicago,13
+50,Peoria,13
+51,Rockford,13
+52,Springfield,13
+53,Indianapolis,14
+54,Fort Wayne,14
+55,Evansville,14
+56,South Bend,14
+57,Des Moines,15
+58,Cedar Rapids,15
+59,Davenport,15
+60,Iowa City,15
+61,Wichita,16
+62,Kansas City,16
+63,Topeka,16
+64,Overland Park,16
+65,Louisville,17
+66,Lexington,17
+67,Bowling Green,17
+68,Owensboro,17
+69,New Orleans,18
+70,Baton Rouge,18
+71,Shreveport,18
+72,Lafayette,18
+73,Portland,19
+74,Lewiston,19
+75,Bangor,19
+76,South Portland,19
+77,Baltimore,20
+78,Baltimore City,20
+79,Gaithersburg,20
+80,Rockville,20
+81,Boston,21
+82,Worcester,21
+83,Springfield,21
+84,Cambridge,21
+85,Detroit,22
+86,Grand Rapids,22
+87,Warren,22
+88,Lansing,22
+89,Minneapolis,23
+90,Saint Paul,23
+91,Rochester,23
+92,Bloomington,23
+93,Jackson,24
+94,Gulfport,24
+95,Hattiesburg,24
+96,Southaven,24
+97,Kansas City,25
+98,Saint Louis,25
+99,Springfield,25
+100,Independence,25
+101,Billings,26
+102,Missoula,26
+103,Great Falls,26
+104,Bozeman,26
+105,Omaha,27
+106,Lincoln,27
+107,Bellevue,27
+108,Omaha City,27
+109,Las Vegas,28
+110,Henderson,28
+111,Paradise,28
+112,North Las Vegas,28
+113,Manchester,29
+114,Nashua,29
+115,Concord,29
+116,Portsmouth,29
+117,Newark,30
+118,Jersey City,30
+119,Paterson,30
+120,Elizabeth,30
+121,Albuquerque,31
+122,Santa Fe,31
+123,Las Cruces,31
+124,Rio Rancho,31
+125,New York City,32
+126,Buffalo,32
+127,Rochester,32
+128,Yonkers,32
+129,Charlotte,33
+130,Raleigh,33
+131,Greensboro,33
+132,Winston-Salem,33
+133,Fargo,34
+134,Bismarck,34
+135,Grand Forks,34
+136,West Fargo,34
+137,Cleveland,35
+138,Columbus,35
+139,Cincinnati,35
+140,Toledo,35
+141,Oklahoma City,36
+142,Tulsa,36
+143,Norman,36
+144,Broken Arrow,36
+145,Portland,37
+146,Gresham,37
+147,Hillsboro,37
+148,Beaverton,37
+149,Philadelphia,38
+150,Pittsburgh,38
+151,Allentown,38
+152,Erie,38
+153,Providence,39
+154,Warwick,39
+155,Cranston,39
+156,Pawtucket,39
+157,Columbia,40
+158,Charleston,40
+159,North Charleston,40
+160,Greenville,40
+161,Sioux Falls,41
+162,Rapid City,41
+163,Aberdeen,41
+164,Brookings,41
+165,Nashville,42
+166,Memphis,42
+167,Knoxville,42
+168,Chattanooga,42
+169,Houston,43
+170,Dallas,43
+171,San Antonio,43
+172,Austin,43
+173,Salt Lake City,44
+174,West Valley City,44
+175,Provo,44
+176,Sandy,44
+177,Burlington,45
+178,South Burlington,45
+179,Colchester,45
+180,Essex Junction,45
+181,Richmond,46
+182,Virginia Beach,46
+183,Norfolk,46
+184,Chesapeake,46
+185,Seattle,47
+186,Spokane,47
+187,Tacoma,47
+188,Bellevue,47
+189,Charleston,48
+190,Huntington,48
+191,Wheeling,48
+192,Parkersburg,48
+193,Milwaukee,49
+194,Madison,49
+195,Green Bay,49
+196,Waukesha,49
+197,Cheyenne,50
+198,Casper,50
+199,Laramie,50
+200,Gillette,50
+201,Calgary,51
+202,Edmonton,51
+203,Lethbridge,51
+204,Red Deer,51
+205,Vancouver,52
+206,Surrey,52
+207,Burnaby,52
+208,Richmond,52
+209,Winnipeg,53
+210,Brandon,53
+211,Thompson,53
+212,Steinbach,53
+213,Saint John,54
+214,Fredericton,54
+215,Moncton,54
+216,Dieppe,54
+217,St. John's,55
+218,Mount Pearl,55
+219,Corner Brook,55
+220,Labrador City,55
+221,Halifax,56
+222,Dartmouth,56
+223,Bedford,56
+224,Sydney,56
+225,Toronto,57
+226,Ottawa,57
+227,Mississauga,57
+228,Brampton,57
+229,Charlottetown,58
+230,Summerside,58
+231,Cornwall,58
+232,Kensington,58
+233,Montreal,59
+234,Quebec City,59
+235,Laval,59
+236,Gatineau,59
+237,Saskatoon,60
+238,Regina,60
+239,Prince Albert,60
+240,Moose Jaw,60
+241,London,61
+242,Manchester,61
+243,Birmingham,61
+244,Liverpool,61
+245,Edinburgh,62
+246,Glasgow,62
+247,Aberdeen,62
+248,Dundee,62
+249,Cardiff,63
+250,Swansea,63
+251,Newport,63
+252,Bangor,63
+253,Belfast,64
+254,Derry/Londonderry,64
+255,Lisburn,64
+256,Antrim,64
+257,Zurich,65
+258,Winterthur,65
+259,Uster,65
+260,Dietikon,65
+261,Bern,66
+262,Biel/Bienne,66
+263,Thun,66
+264,Köniz,66
+265,Geneva,67
+266,Carouge,67
+267,Meyrin,67
+268,Vernier,67
+269,Basel,68
+270,Münchenstein,68
+271,Allschwil,68
+272,Pratteln,68
+273,Düsseldorf,69
+274,Cologne,69
+275,Essen,69
+276,Dortmund,69
+277,Munich,70
+278,Nuremberg,70
+279,Augsburg,70
+280,Regensburg,70
+281,Stuttgart,71
+282,Karlsruhe,71
+283,Mannheim,71
+284,Freiburg im Breisgau,71
+285,Hanover,72
+286,Braunschweig,72
+287,Osnabrück,72
+288,Wolfsburg,72
+289,Paris,73
+290,Versailles,73
+291,Saint-Denis,73
+292,Nanterre,73
+293,Boulogne-Billancourt,74
+294,Nanterre,74
+295,Antony,74
+296,Meudon,74
+297,Saint-Denis,75
+298,Aubervilliers,75
+299,La Courneuve,75
+300,Pantin,75
+301,Créteil,76
+302,Vitry-sur-Seine,76
+303,Ivry-sur-Seine,76
+304,Fontenay-sous-Bois,76
+305,Accra,77
+306,Tema,77
+307,Ga West,77
+308,Kumasi,78
+309,Obuasi,78
+310,Konongo,78
+311,Takoradi,79
+312,Sekondi,79
+313,Tarkwa,79
+314,Koforidua,80
+315,Nkawkaw,80
+316,Suhum,80
+317,Johannesburg,81
+318,Pretoria,81
+319,Soweto,81
+320,Ekurhuleni,81
+321,Durban,82
+322,Pietermaritzburg,82
+323,Umhlanga,82
+324,Westville,82
+325,Cape Town,83
+326,Stellenbosch,83
+327,Paarl,83
+328,Bellville,83
+329,Port Elizabeth,84
+330,East London,84
+331,Uitenhage,84
+332,Grahamstown,84
+333,Nairobi,85
+334,Kiambu,85
+335,Machakos,85
+336,Kajiado,85
+337,Mombasa,86
+338,Kilifi,86
+339,Kwale,86
+340,Taita-Taveta,86
+341,Nakuru,87
+342,Naivasha,87
+343,Gilgil,87
+344,Molo,87
+345,Kisumu,88
+346,Siaya,88
+347,Homa Bay,88
+348,Migori,88
+349,Lagos,89
+350,Ikeja,89
+351,Surulere,89
+352,Mushin,89
+353,Kano,90
+354,Kano Municipal,90
+355,Nassarawa,90
+356,Gwale,90
+357,Kaduna,91
+358,Zaria,91
+359,Kafanchan,91
+360,Kubau,91
+361,Port Harcourt,92
+362,Obigbo,92
+363,Port Harcourt South,92
+364,Port Harcourt North,92
+365,Abidjan,93
+366,Cocody,93
+367,Adjamé,93
+368,Plateau,93
+369,Yamoussoukro,94
+370,Tiébissou,94
+371,Bouaké,94
+372,M'Bahiakro,94
+373,Bouaké,95
+374,Sakassou,95
+375,Dabakala,95
+376,Botro,95
+377,Daloa,96
+378,Vanié,96
+379,Issia,96
+380,Zuenoula,96
+381,Kinshasa,97
+382,Matadi,97
+383,Ndolo,97
+384,Kikwit,97
+385,Lubumbashi,98
+386,Kolwezi,98
+387,Likasi,98
+388,Kalemie,98
+389,Mbuji-Mayi,99
+390,Kananga,99
+391,Tshikapa,99
+392,Luiza,99
+393,Goma,100
+394,Beni,100
+395,Butembo,100
+396,Rutshuru,100
+397,Shah Alam,101
+398,Petaling Jaya,101
+399,Klang,101
+400,Subang Jaya,101
+401,Johor Bahru,102
+402,Iskandar Puteri,102
+403,Pasir Gudang,102
+404,Kota Tinggi,102
+405,Kuala Lumpur,103
+406,Putrajaya,103
+407,Sepang,103
+408,Cyberjaya,103
+409,George Town,104
+410,Bayan Lepas,104
+411,Butterworth,104
+412,Bukit Mertajam,104
+413,Mumbai,105
+414,Pune,105
+415,Nagpur,105
+416,Thane,105
+417,Lucknow,106
+418,Kanpur,106
+419,Varanasi,106
+420,Agra,106
+421,Kolkata,107
+422,Howrah,107
+423,Asansol,107
+424,Siliguri,107
+425,Chennai,108
+426,Coimbatore,108
+427,Madurai,108
+428,Tiruchirappalli,108
+429,Guangzhou,109
+430,Shenzhen,109
+431,Foshan,109
+432,Zhuhai,109
+433,Nanjing,110
+434,Suzhou,110
+435,Wuxi,110
+436,Nantong,110
+437,Jinan,111
+438,Qingdao,111
+439,Zibo,111
+440,Weihai,111
+441,Beijing,112
+442,Tongzhou,112
+443,Shunyi,112
+444,Chaoyang,112
+445,Tokyo,113
+446,Yokohama,113
+447,Kawasaki,113
+448,Saitama,113
+449,Osaka,114
+450,Sakai,114
+451,Kyoto,114
+452,Kobe,114
+453,Nagoya,115
+454,Toyota,115
+455,Okazaki,115
+456,Toyohashi,115
+457,Yokohama,116
+458,Kawasaki,116
+459,Sagamihara,116
+460,Fujisawa,116
+461,Lahore,117
+462,Faisalabad,117
+463,Rawalpindi,117
+464,Multan,117
+465,Karachi,118
+466,Hyderabad,118
+467,Sukkur,118
+468,Larkana,118
+469,Peshawar,119
+470,Abbottabad,119
+471,Mardan,119
+472,Kohat,119
+473,Quetta,120
+474,Hubli,120
+475,Sibi,120
+476,Loralai,120

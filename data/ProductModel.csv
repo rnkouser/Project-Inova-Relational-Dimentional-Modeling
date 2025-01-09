@@ -1,0 +1,47 @@
+ProductModelID,ModelName,ModelStyle,ModelYear,ProductMakeID
+1,Corolla,Sedan,2010,1
+2,Camry,Sedan,2016,1
+3,RAV4,SUV,2023,1
+4,Highlander,SUV,2014,1
+5,Tacoma,Truck,2018,1
+6,Civic,Sedan,2016,2
+7,Accord,Sedan,2010,2
+8,CRV,Unknown,2021,2
+9,Pilot,SUV,2016,2
+10,Odyssey,Unknown,2017,2
+11,Silverado,Unknown,2013,3
+12,Equinox,SUV,2019,3
+13,Traverse,SUV,2018,3
+14,Malibu,Sedan,2013,3
+15,Camaro,SportsCar,2021,3
+16,Altima,Sedan,2014,4
+17,Rogue,SUV,2024,4
+18,Pathfinder,SUV,2014,4
+19,Sentra,Sedan,2024,4
+20,Maxima,Sedan,2018,4
+21,F-150,Truck,2018,5
+22,Mustang,Unknown,2013,5
+23,Explorer,SUV,2018,5
+24,Escape,SUV,2014,5
+25,Fusion,Sedan,2012,5
+26,Edge,SUV,2015,5
+27,Golf,Sedan,2022,6
+28,Passat,Sedan,2013,6
+29,Tiguan,SUV,2016,6
+30,Atlas,SUV,2024,6
+31,Jetta,Sedan,2022,6
+32,Outback,SUV,2024,7
+33,Forester,SUV,2020,7
+34,Impreza,Sedan,2023,7
+35,Ascent,SUV,2014,7
+36,WRX,SportsCar,2016,7
+37,Model S,Sedan,2024,8
+38,Model 3,Sedan,2012,8
+39,Model Y,Unknown,2018,8
+40,Model X,SUV,2010,8
+41,Roadster,SportsCar,2015,8
+42,3 Series,SportsCar,2015,9
+43,X5,SUV,2010,9
+44,X3,SUV,2017,9
+45,5 Series,Unknown,2023,9
+46,7 Series,Unknown,2017,9

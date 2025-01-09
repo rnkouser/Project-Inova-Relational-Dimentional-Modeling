@@ -1,0 +1,11 @@
+WarehouseID,WarehouseName,WarehouseCapacity,WarehouseAddress,CityID
+1,Central Warehouse,7396,"360 Portage Avenue, Winnipeg, MB",209
+2,East Warehouse,9666,"1000 Sherbrooke Street West, Montreal, QC",233
+3,West Warehouse,3558,"100 Robson Street, Vancouver, BC",205
+4,North Warehouse,8849,"100 Water Street, St. John's, NL",217
+5,South Warehouse,3047,"100 Great George Street, Charlottetown, PE",229
+6,Regional Warehouse A,3747,"1234 8th Avenue SW, Calgary, AB",201
+7,Regional Warehouse B,1189,"500 Idylwyld Drive North, Saskatoon, SK",237
+8,Logistics Hub,3734,"165 Hollis Street, Halifax, NS",221
+9,Distribution Center,4005,"100 Queen Street West, Toronto, ON",225
+10,Storage Facility,5658,"55 York Street, Fredericton, NB",214
